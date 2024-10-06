@@ -1,0 +1,3 @@
+- [] Implement server configurations
+- [] Set up custom scripts
+more coming son
